@@ -1,3 +1,4 @@
+#jee  4770851@qq.com
 import keyboard  
 import pyperclip  
 import time  
@@ -31,7 +32,7 @@ def on_ctrl_c():
             # 重置计数器，因为我们已经处理了一次“双击”事件 
             ctrl_c_count = 0  
     else:  
-        # 如果超过时间阈值或第一次按下，重置计数器 
+        # 如果超过时间阈值或第一次按下，重置计数器
         ctrl_c_count = 1  
     contents.append(pyperclip.paste())
     # 更新上次 Ctrl+C 按下时间  
