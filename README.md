@@ -1,4 +1,6 @@
 多次复制，一起粘贴！再也不用一次一次复制粘贴了。
+![录制_2024_06_01_02_00_02_132](https://github.com/jeesr/appendCopy/assets/39300618/befcc6f0-1b6f-447b-a3ff-fae2bb5780e6)
+
 
 ![image](https://github.com/jeesr/appendCopy/assets/39300618/e18e1c7c-8184-4f87-a710-110bf27f4de1)
 
