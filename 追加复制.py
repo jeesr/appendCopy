@@ -28,7 +28,7 @@ def on_ctrl_c():
         if ctrl_c_count >= 2:  # 如果在阈值内连续按下了两次或更多次
             content = content + delimiter + pyperclip.paste() if content else pyperclip.paste() 
             time.sleep(0.02)  # 稍微等待以确保剪贴板内容已更新  
-            pyperclip.copy(content) # 更新剪贴板内容 
+            pyperclip.copy(content) # 更新剪贴板的内容 
             # 重置计数器，因为我们已经处理了一次“双击”事件 
             ctrl_c_count = 0  
     else:  
